@@ -1,0 +1,77 @@
+.todo{
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  align-items: center;
+  /* border-radius: 15px; */
+  width: 100%;
+}
+
+.spread{
+  display: flex;
+
+}
+
+.but{
+  display: flex;
+  margin-right: 40px;
+  gap: 20px;
+}
+
+/* .edit{
+ position: relative;
+ left : -30px
+} */
+
+.butu{
+  background-color: blueviolet;
+  color: white;
+  padding: 5px 15px 5px 15px;
+  border-radius: 30px;
+}
+
+.linethrough{
+  text-decoration: line-through;
+}
+
+.bol{
+  width: 700px;
+  border-radius: 25px;
+}
+
+.whole{
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  height: 90vh;
+}
+
+
+.title-texts{
+  font-size: xx-large;
+  font-weight: bolder;
+ 
+  text-align: center;
+}
+.mg{
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
+
+.click-checkbox{
+  position: relative;
+  left: -30px
+}
+
+.save-but{
+  background-color: blueviolet;
+  color: white;
+  padding: 10px 15px 10px 15px;
+  border-radius: 30px;
+}
+
+.text-inp{
+  padding: 10px;
+  width: 500px;
+  border-radius: 20px;
+}
